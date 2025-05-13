@@ -1,7 +1,5 @@
 package org.utl.introkotlin_901.temasKotlin
 
-// hacer la formula general con lo que ingrese el usuario
-package org.utl.introkotlin_901.temasKotlin
 
 import kotlin.math.sqrt
 
