@@ -12,12 +12,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IntroKotlin901"
         tools:targetApi="31">
+
+        <activity
+            android:name=".Cinepolis.Cinepolis"
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight"/>
         <activity
             android:name=".Ejemplo2.Resultado"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight"/>
         <activity
             android:name=".Ejemplo2.SaludoActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.AppCompat.DayNight"/>
         <activity
             android:name=".MenuActivity"
             android:exported="true"
